@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:400,500,700');
+
+body * {
+    font-family: 'Dosis', sans-serif !important;
+}
+
+.uk-label, .uk-button-primary {
+    background: #ad2222;
+}
+
+.uk-button-primary:hover {
+    background: #222;
+}
+
+.removetext {
+    padding-top:5px;
+}
